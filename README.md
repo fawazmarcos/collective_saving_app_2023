@@ -16,7 +16,7 @@
 ### Admin Web Dashboard
 To set up the Admin Web Dashboard on your local machine, follow these steps:
 
-1. Clone the repository from Github: https://github.com/fawazmarcos/collective_saving_app
+1. Clone the repository from Github: https://github.com/fawazmarcos/collective_saving_app_2023
    ```
    Clone with ssh : git clone ...
    Or
