@@ -71,7 +71,7 @@ if (isset($_POST['telephone']) && isset($_POST['montant'])) {
             );
        } else {
             $response= array(
-                "status" => 200,
+                "status" => 400,
                 "message" => $response
             );
         
