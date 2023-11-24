@@ -33,19 +33,20 @@ To set up the Admin Web Dashboard on your local machine, follow these steps:
 ### App Mobile
 
 1. Required
+   
    Make sure you have the following tools installed on your machine:
    - Flutter
    - Dart
      
-2. Navigate to the project directory:
-   
+3. Navigate to the project directory:
+   ```
    cd app-mobile
 
-3. Install Dependencies
-   
+4. Install Dependencies
+   ```
    flutter pub get
 
-4.  Run the Application
-   
-   flutter run
+5.  Run the Application
+   ```
+  flutter run
 
